@@ -52,4 +52,4 @@ NOTE:
 - University of Melbourne COMP20008 Teaching Team (Project Specifications and dataset Provider)
 
 ## License
-This project is for academic purposes under the University of Melbourne's COMP20008 course.![image](https://github.com/user-attachments/assets/b8010012-2bdc-42e6-95f5-78c76d629bf8)
+This project is for academic purposes under the University of Melbourne's COMP20008 course.
