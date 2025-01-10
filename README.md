@@ -46,7 +46,7 @@ NOTE:
 - Supervised Data Modeling (Decision Trees, K Nearest Neighbours)
 
 ## Contributors
-- Ryan Huang
+- Kerui Huang
 - Peter Lu
 - Dylan Tran
 - University of Melbourne COMP20008 Teaching Team (Project Specifications and dataset Provider)
